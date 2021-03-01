@@ -2,5 +2,5 @@
 
 <h2> Our Vision is to 
 Be a global digital technology leader, most admired for its people, partnerships & performance.</h2>
-<h3> Our Mission is ,
-We are committed to customer success by providing innovative digital solutions in the spirit of true partnership.</h3>
+<h2> Our Mission is ,
+We are committed to customer success by providing innovative digital solutions in the spirit of true partnership.</h2>
